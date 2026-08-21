@@ -1,11 +1,15 @@
+<div align="center">
+
 # Cibelly Batista
 
 Mobile and backend development. Currently at PET Saúde Digital, working with Kotlin.
 
 ---
 
-`Java` `Kotlin` `PostgreSQL` `JavaScript` `SQL` `Dart` `Flutter` `React Native` `Figma` `Git`
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,postgres,js,dart,flutter,figma,git)](https://skillicons.dev)
 
 ---
 
-✉️ cibellyhnb@gmail.com · [LinkedIn](https://www.linkedin.com/in/cibelly-henrique-nogueira-batista-8b736a326/)
+✉️ cibellyhnb@gmail.com · [LinkedIn](link-do-linkedin)
+
+</div>
